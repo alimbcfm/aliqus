@@ -1,0 +1,200 @@
+   
+
+#q1 {
+    background: skyblue;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    position: relative;
+    border: solid 5px black;
+
+}
+#q2 {
+    background: skyblue;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    position: relative;
+    border: solid 5px black;
+    display: none;
+}
+#q3 {
+    background: skyblue;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    position: relative;
+    border: solid 5px black;
+    display: none;
+}
+#question2{
+    position: absolute;
+    background: tomato;
+    height: 30px;
+    width: 300px;
+    border: solid black 2px;
+    left: 40px;
+    top: 30px;
+}
+
+#q1 input{
+    position: relative;
+    height: 50px;
+    width: 100px;
+    top: 50px;
+    border: solid black 2px;
+    margin: 40px;
+    border-radius: 30px;
+    .h11{
+        border: solid black 5px;
+    }
+
+}
+#q2 input{
+    position: relative;
+    height: 50px;
+    width: 100px;
+    top: 50px;
+    border: solid black 2px;
+    margin: 40px;
+    border-radius: 30px;
+    .h11{
+        border: solid black 5px;
+    }
+
+}
+#q3 input{
+    position: relative;
+    height: 50px;
+    width: 100px;
+    top: 50px;
+    border: solid black 2px;
+    margin: 40px;
+    border-radius: 30px;
+    .h11{
+        border: solid black 5px;
+    }
+
+}
+
+input[type="button" ]:hover {
+    background: #4b99d8;
+    cursor: pointer;
+    
+}
+#question2{
+    font-size: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+#res{
+    background-color: yellow;
+    font-size: 30px;
+    height: 50px;
+    width: 100px;
+}
+#c1{
+    font-size: large;
+}
+#c2{
+    font-size: large;
+}#c3{
+    font-size: large;
+}#c4{
+    font-size: large;
+}
+#c5{
+    font-size: large;
+}
+#c6{
+    font-size: large;
+}#c7{
+    font-size: large;
+}#c8{
+    font-size: large;
+}
+#c9{
+    font-size: large;
+}
+#c10{
+    font-size: large;
+}#c11{
+    font-size: large;
+}#c12{
+    font-size: large;
+}
+#next1 {
+    position: relative;
+    height: 50px;
+    width: 200px;
+    border: solid black 2px;
+    margin: 70px;
+    border-radius: 30px;
+    font-size: large;
+    background: #ad6c99;
+    cursor: pointer;
+    
+}
+#next1:hover{
+background: #4fa075;
+}
+#next2 {
+    position: relative;
+    height: 50px;
+    width: 200px;
+    border: solid black 2px;
+    margin: 70px;
+    border-radius: 30px;
+    font-size: large;
+    background: #ad6c99;
+    cursor: pointer;
+    
+}
+#next2:hover{
+background: #4fa075;
+}
+#next3 {
+    position: relative;
+    height: 50px;
+    width: 200px;
+    border: solid black 2px;
+    margin: 70px;
+    border-radius: 30px;
+    font-size: large;
+    background: #ad6c99;
+    cursor: pointer;
+    
+}
+#next3:hover{
+background: #4fa075;
+}
+#num1{
+    display: none;
+}
+#num2{
+    display: none;
+}
+#num3{
+    display: none;
+}
+#num4{
+    display: none;
+}#num5{
+    display: none;
+}#num6{
+    display: none;
+}#num7{
+    display: none;
+}
+#addButton{
+   
+    position: relative;
+    height: 40px;
+    width: 200px;
+    border: solid black 2px;
+    border-radius: 30px;
+    font-size: large;
+    background: #8a9da0;
+    cursor: pointer;
+    left: 90px;
+}
